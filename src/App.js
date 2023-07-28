@@ -1,5 +1,4 @@
-import "./app.css";
-``;
+import "./styles/app.css";
 
 //import Article from "./Components/article/article"
 import Brand from "./Components/brand/Brand";
@@ -32,11 +31,3 @@ function App() {
 }
 
 export default App;
-/*
-  <Navbar/>
-        <Header/>
-
-
-
-  
-*/
